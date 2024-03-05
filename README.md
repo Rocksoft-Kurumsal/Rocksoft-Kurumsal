@@ -1,5 +1,5 @@
 <h3 align="center">Welcome to Rocksoft A.S. Github page.</h3>
-<img align="right" src="./Rocksoft-Gorseller/rock-logo-small_Çalişma-Yüzeyi-1.png" width="300" 
+<img align="middle" src="./Rocksoft-Gorseller/rock-logo-small_Çalişma-Yüzeyi-1.png" width="300" 
      height="150"/>
 
 <h3 align="center">https://www.rocksoft.com.tr/</h3>
