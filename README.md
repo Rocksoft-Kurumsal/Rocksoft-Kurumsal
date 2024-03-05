@@ -2,7 +2,7 @@
 <!-- <img align="center" src="./Rocksoft-Gorseller/rock-logo-small_Çalişma-Yüzeyi-1.png" width="300" 
      height="100"/> -->
 <h3 align="center" <img src="./Rocksoft-Gorseller/rock-logo-small_Çalişma-Yüzeyi-1.png" width="300" 
-     height="100"/> </h3>
+     height="100"/> Yazı </h3>
 
  <h3 align="center">https://www.rocksoft.com.tr/</h3> 
 <p align="left">
