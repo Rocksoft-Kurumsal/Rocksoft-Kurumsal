@@ -2,6 +2,6 @@
 <img align="top" src="./Rocksoft-Gorseller/rock-logo-small_Çalişma-Yüzeyi-1.png" width="300" 
      height="100"/>
 
-<h3 align="center">https://www.rocksoft.com.tr/</h3>
+<!-- <h3 align="center">https://www.rocksoft.com.tr/</h3> -->
 <p align="left">
 </p>
